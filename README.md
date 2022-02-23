@@ -12,3 +12,4 @@ February 23, 2022
 - Dependency Injection
 - Thymeleaf
 - REST Api
+- Customized exceptions
